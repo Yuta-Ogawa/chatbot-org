@@ -3,8 +3,8 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
 import ListItemAvatar from '@material-ui/core/ListItemAvatar';
 import Avatar from '@material-ui/core/Avatar';
-import NoProfile from '../assets/img/no-profile.png'
-import Torahack from '../assets/img/torahack.png'
+import NoProfile from '../assets/img/youricon.png'
+import Torahack from '../assets/img/myicon.png'
 
 const Chat = (props) => {
     const isQuestion = (props.type ==='question');

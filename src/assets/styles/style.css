@@ -25,11 +25,11 @@
     display: flex;
     flex-flow: column;
     justify-content: flex-end;
-    height: 192px;
+    height: 243px;
 }
 
 .p-chat__bubble {
-    background: #41B6E6;
+    background: rgb(99, 202, 243);
     border-radius: 4px;
     color: #fff;
     font-size: 14px;

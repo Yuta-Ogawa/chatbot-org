@@ -70,7 +70,7 @@ const App = () => {
                     type: 'answer'
                 })
 
-                setTimeout(() => displayNextQuestion(nextQuestionId, dataset[nextQuestionId]), 750)
+                setTimeout(() => displayNextQuestion(nextQuestionId, dataset[nextQuestionId]), 500)
                 break;
         }
     };
